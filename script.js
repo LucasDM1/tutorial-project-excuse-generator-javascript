@@ -3,8 +3,8 @@ window.onload=function(){
     document.querySelector('#generator').addEventListener("click", ()=>{
 
     var first = 'A ';
-    var adj = ['mutant ', 'ugly ', 'angry ', 'sad ','crazy ','fabulous ','gigantic ','beautiful ','homeless ' ];
-    var noun = ['tiger ','woman ','dog ', 'cat ', 'taxi driver ', 'nurse ', 'robot '];
+    var adj = ['little', 'horrendous ', 'angry ', 'drepessed ','crazy ','green ','lazy ','beautiful ','powerfull' ];
+    var noun = ['frog ','doctor ','rat ', 'cat ', 'pilot ', 'firefighter ', 'robot '];
     var action = ['took my ', 'threw my ', 'yelled at my ' , 'kicked my ', 'stole my ', 'burned my ', 'ate my ', 'hit my '];
     var possetion = ['finger ', 'bike ', 'watch ', 'head ', 'wallet ', 'shirt ', 'keys ', 'computer ', 'phone ', 'guitar '];
     var where = ['on the street','in my house','at the university', 'in front of the church', 'near the mall', 'near the toilet', 'at the bus station'];
